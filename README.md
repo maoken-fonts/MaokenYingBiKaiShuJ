@@ -19,8 +19,17 @@
 - [placeholder](placeholder) 对此字体的大力贡献，感激不尽！
 - [猫啃网](https://www.maoken.com/)
 
+## 授权
+
+- 本字体基于 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授权条款公开发布。关于授权合约的详细内容，请详读授权文件档（OFL.txt）。
+ - **猫啃硬笔楷书**、**MaokenYingBiKaiShu**、**MaokenYingBiKaiShuJ**为本专案的保留名称。
+ - 任何人可以无偿使用此字体，包含商用。无须告知原作者。
+ - 您可自由传送、分享此字体，或与其他软件捆绑发行、销售。捆包中必须同时包含授权文件档（OFL.txt）。
+ - 您可自由改造、衍生此字体并公开。修改后的字型必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 进行发布，勿使用此字体的保留名称。
+ - 依照 [SIL OFL](https://scripts.sil.org/OFL) 规定，**禁止单独出售字体文件**：包括但不限于于橙色软件、黄色软件以字体包、字体大全形式贩售。
+
 ## 版本资讯
 
 - Ver -.- （20--/--/--）
 
-  公开发布  
+公开发布  
