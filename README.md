@@ -1,5 +1,3 @@
-# 將於近日發佈／ＴＢＡ
-
 # 猫啃硬笔楷书
 免费、开源的字体《猫啃硬笔楷书》简体版。　A free, open source font "MaokenYingBiKaiShuJ".
 
@@ -16,7 +14,7 @@
 - 阿坤 将[隨峰体](https://cjkfonts.io/blog/ThePeakFont)免费分享
 - Jeffrey Xuan 补充大量简化字的[曉聲通秋茄體](https://toneoz.com/blog/tsuipita/)
 - 部分符号以 [tamcy 的 昭源環方](https://github.com/chiron-fonts/chiron-go-round-tc) 补充
-- [placeholder](placeholder) 对此字体的大力贡献，感激不尽！
+- [ZERO子](https://github.com/Skr-ZERO) 对此字体的大力贡献，感激不尽！
 - [猫啃网](https://www.maoken.com/)
 
 ## 授权
@@ -30,6 +28,6 @@
 
 ## 版本资讯
 
-- Ver -.- （20--/--/--）
+- Ver 0.09 （2025/04/25）
 
 公开发布  
