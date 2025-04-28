@@ -1,10 +1,6 @@
-MaokenYingBiKaiShuJ／猫啃硬笔楷书：
-项目负责人：Luke036（Github: https://github.com/scott0107000）
-参与贡献者：ZERO子（Github: https://github.com/Skr-ZERO）
-
-SIL Open Font License（SIL开源字型授权）中译网址如下：
-https://www.maoken.com/ofl
-译文仅供参考，如有错误或出入，请参见原英文版。
+MaokenYingBiKaiShuJ:
+Project Director：Luke036（Github: https://github.com/scott0107000）
+Contributors：ZERO子（Github: https://github.com/Skr-ZERO）
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
